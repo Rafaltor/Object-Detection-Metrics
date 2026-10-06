@@ -1,3 +1,9 @@
+# Fork
+
+Working copy of [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics). It is the metric reference for [yolov5-afam](https://github.com/Rafaltor/yolov5-afam). The original documentation follows.
+
+---
+
 
 
 <p align="left">
